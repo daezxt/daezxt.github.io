@@ -15,12 +15,12 @@ name                     : &name "张馨恬"
 description              : &description "Undergraduate, School of Computer and Big Data, Fuzhou University"
 url                      : https://daezxt.github.io
 baseurl                  : ""
-repository               : "你的github用户名/你的仓库名"
+repository               : "daezxt/daezxt.github.io"
 
 # Site Author - 侧边栏个人信息
 author:
   # Biographic information
-  avatar           : "goose.jpg"
+  avatar           : "goose.png"
   name             : "张馨恬"
   pronouns         : "she/her"
   bio              : "Computer Science undergraduate at Fuzhou University. Skilled in C/C++, Python, Linux. Participating in National College Students' Innovation Training Program. Hobby: drawing & music."
